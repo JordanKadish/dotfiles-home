@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale --image-bg 'black' '/home/jordan/downloads/imgs/alucard.png' 
